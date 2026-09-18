@@ -1,0 +1,8 @@
+# Do not commit raw HTML dumps or build intermediates
+raw/
+pdf-parts/
+pdf-batches/
+sample-*.html
+.venv/
+*.pyc
+__pycache__/

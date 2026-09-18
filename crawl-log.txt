@@ -1,0 +1,222 @@
+2026-09-17 20:43:23 Starting crawl of 73 pages, delay=4.0s
+2026-09-17 20:43:23 [1/73] Fetch genesis
+2026-09-17 20:43:23 REUSE sample for genesis (1544265 bytes)
+2026-09-17 20:43:24   wrote genesis.md (1043301 chars)
+2026-09-17 20:43:24 [2/73] Fetch exodus
+2026-09-17 20:43:25 OK exodus: 786297 bytes (attempt 1)
+2026-09-17 20:43:25   wrote exodus.md (426419 chars)
+2026-09-17 20:43:29 [3/73] Fetch leviticus
+2026-09-17 20:43:30 OK leviticus: 503739 bytes (attempt 1)
+2026-09-17 20:43:30   wrote leviticus.md (219886 chars)
+2026-09-17 20:43:34 [4/73] Fetch numbers
+2026-09-17 20:43:34 OK numbers: 681609 bytes (attempt 1)
+2026-09-17 20:43:35   wrote numbers.md (207805 chars)
+2026-09-17 20:43:39 [5/73] Fetch deuteronomy
+2026-09-17 20:43:39 OK deuteronomy: 499784 bytes (attempt 1)
+2026-09-17 20:43:39   wrote deuteronomy.md (194899 chars)
+2026-09-17 20:43:43 [6/73] Fetch joshua
+2026-09-17 20:43:44 OK joshua: 954334 bytes (attempt 1)
+2026-09-17 20:43:44   wrote joshua.md (383160 chars)
+2026-09-17 20:43:48 [7/73] Fetch judges
+2026-09-17 20:43:49 OK judges: 761822 bytes (attempt 1)
+2026-09-17 20:43:49   wrote judges.md (424148 chars)
+2026-09-17 20:43:53 [8/73] Fetch ruth
+2026-09-17 20:43:54 OK ruth: 448608 bytes (attempt 1)
+2026-09-17 20:43:54   wrote ruth.md (44278 chars)
+2026-09-17 20:43:58 [9/73] Fetch 1-samuel
+2026-09-17 20:43:58 OK 1-samuel: 1066090 bytes (attempt 1)
+2026-09-17 20:43:58   wrote 1-samuel.md (684333 chars)
+2026-09-17 20:44:02 [10/73] Fetch 2-samuel
+2026-09-17 20:44:03 OK 2-samuel: 1083174 bytes (attempt 1)
+2026-09-17 20:44:03   wrote 2-samuel.md (571064 chars)
+2026-09-17 20:44:07 [11/73] Fetch 1-kings
+2026-09-17 20:44:08 OK 1-kings: 1282982 bytes (attempt 1)
+2026-09-17 20:44:08   wrote 1-kings.md (673763 chars)
+2026-09-17 20:44:12 [12/73] Fetch 2-kings
+2026-09-17 20:44:13 OK 2-kings: 1158745 bytes (attempt 1)
+2026-09-17 20:44:13   wrote 2-kings.md (632292 chars)
+2026-09-17 20:44:17 [13/73] Fetch 1-chronicles
+2026-09-17 20:44:18 OK 1-chronicles: 1226585 bytes (attempt 1)
+2026-09-17 20:44:19   wrote 1-chronicles.md (633396 chars)
+2026-09-17 20:44:23 [14/73] Fetch 2-chronicles
+2026-09-17 20:44:24 OK 2-chronicles: 919832 bytes (attempt 1)
+2026-09-17 20:44:24   wrote 2-chronicles.md (468462 chars)
+2026-09-17 20:44:28 [15/73] Fetch ezra
+2026-09-17 20:44:28 OK ezra: 710738 bytes (attempt 1)
+2026-09-17 20:44:29   wrote ezra.md (223307 chars)
+2026-09-17 20:44:33 [16/73] Fetch nehemiah
+2026-09-17 20:44:33 OK nehemiah: 797335 bytes (attempt 1)
+2026-09-17 20:44:33   wrote nehemiah.md (277618 chars)
+2026-09-17 20:44:37 [17/73] Fetch esther
+2026-09-17 20:44:38 OK esther: 431482 bytes (attempt 1)
+2026-09-17 20:44:38   wrote esther.md (147872 chars)
+2026-09-17 20:44:42 [18/73] Fetch job-1-19
+2026-09-17 20:44:42 REUSE sample for job-1-19 (1472463 bytes)
+2026-09-17 20:44:42   wrote job-1-19.md (967189 chars)
+2026-09-17 20:44:43 [19/73] Fetch job-20-42
+2026-09-17 20:44:43 OK job-20-42: 1648924 bytes (attempt 1)
+2026-09-17 20:44:44   wrote job-20-42.md (886426 chars)
+2026-09-17 20:44:48 [20/73] Fetch psalms-1-36
+2026-09-17 20:44:48 REUSE sample for psalms-1-36 (861879 bytes)
+2026-09-17 20:44:48   wrote psalms-1-36.md (413936 chars)
+2026-09-17 20:44:49 [21/73] Fetch psalms-37-72
+2026-09-17 20:44:49 REUSE sample for psalms-37-72 (768145 bytes)
+2026-09-17 20:44:49   wrote psalms-37-72.md (435270 chars)
+2026-09-17 20:44:49 [22/73] Fetch psalms-73-150
+2026-09-17 20:44:50 OK psalms-73-150: 951846 bytes (attempt 1)
+2026-09-17 20:44:50   wrote psalms-73-150.md (500560 chars)
+2026-09-17 20:44:54 [23/73] Fetch proverbs
+2026-09-17 20:44:55 OK proverbs: 1120583 bytes (attempt 1)
+2026-09-17 20:44:55   wrote proverbs.md (712456 chars)
+2026-09-17 20:44:59 [24/73] Fetch ecclesiastes
+2026-09-17 20:44:59 OK ecclesiastes: 798888 bytes (attempt 1)
+2026-09-17 20:44:59   wrote ecclesiastes.md (508209 chars)
+2026-09-17 20:45:03 [25/73] Fetch song-of-solomon
+2026-09-17 20:45:04 OK song-of-solomon: 634608 bytes (attempt 1)
+2026-09-17 20:45:04   wrote song-of-solomon.md (385787 chars)
+2026-09-17 20:45:08 [26/73] Fetch isaiah-1-12
+2026-09-17 20:45:08 REUSE sample for isaiah-1-12 (1491469 bytes)
+2026-09-17 20:45:09   wrote isaiah-1-12.md (1032264 chars)
+2026-09-17 20:45:09 [27/73] Fetch isaiah-13-28
+2026-09-17 20:45:10 OK isaiah-13-28: 1542846 bytes (attempt 1)
+2026-09-17 20:45:11   wrote isaiah-13-28.md (1104478 chars)
+2026-09-17 20:45:15 [28/73] Fetch isaiah-29-49
+2026-09-17 20:45:15 OK isaiah-29-49: 1673228 bytes (attempt 1)
+2026-09-17 20:45:16   wrote isaiah-29-49.md (1097236 chars)
+2026-09-17 20:45:20 [29/73] Fetch isaiah-50-66
+2026-09-17 20:45:20 OK isaiah-50-66: 1464741 bytes (attempt 1)
+2026-09-17 20:45:21   wrote isaiah-50-66.md (1047249 chars)
+2026-09-17 20:45:25 [30/73] Fetch jeremiah-1-20
+2026-09-17 20:45:25 REUSE sample for jeremiah-1-20 (1814541 bytes)
+2026-09-17 20:45:26   wrote jeremiah-1-20.md (1116461 chars)
+2026-09-17 20:45:26 [31/73] Fetch jeremiah-21-52
+2026-09-17 20:45:27 OK jeremiah-21-52: 1754629 bytes (attempt 1)
+2026-09-17 20:45:28   wrote jeremiah-21-52.md (1218663 chars)
+2026-09-17 20:45:32 [32/73] Fetch lamentations
+2026-09-17 20:45:32 OK lamentations: 473651 bytes (attempt 1)
+2026-09-17 20:45:32   wrote lamentations.md (211334 chars)
+2026-09-17 20:45:36 [33/73] Fetch ezekiel
+2026-09-17 20:45:37 OK ezekiel: 1174697 bytes (attempt 1)
+2026-09-17 20:45:37   wrote ezekiel.md (579305 chars)
+2026-09-17 20:45:41 [34/73] Fetch daniel
+2026-09-17 20:45:42 OK daniel: 727897 bytes (attempt 1)
+2026-09-17 20:45:42   wrote daniel.md (384089 chars)
+2026-09-17 20:45:46 [35/73] Fetch hosea
+2026-09-17 20:45:47 OK hosea: 763577 bytes (attempt 1)
+2026-09-17 20:45:47   wrote hosea.md (253342 chars)
+2026-09-17 20:45:51 [36/73] Fetch joel
+2026-09-17 20:45:51 OK joel: 617469 bytes (attempt 1)
+2026-09-17 20:45:51   wrote joel.md (141432 chars)
+2026-09-17 20:45:55 [37/73] Fetch amos
+2026-09-17 20:45:56 OK amos: 433621 bytes (attempt 1)
+2026-09-17 20:45:56   wrote amos.md (44236 chars)
+2026-09-17 20:46:00 [38/73] Fetch obadiah
+2026-09-17 20:46:00 OK obadiah: 296008 bytes (attempt 1)
+2026-09-17 20:46:00   wrote obadiah.md (18849 chars)
+2026-09-17 20:46:04 [39/73] Fetch jonah
+2026-09-17 20:46:05 OK jonah: 403933 bytes (attempt 1)
+2026-09-17 20:46:05   wrote jonah.md (55115 chars)
+2026-09-17 20:46:09 [40/73] Fetch micah
+2026-09-17 20:46:10 OK micah: 528518 bytes (attempt 1)
+2026-09-17 20:46:10   wrote micah.md (115454 chars)
+2026-09-17 20:46:14 [41/73] Fetch nahum
+2026-09-17 20:46:15 OK nahum: 477354 bytes (attempt 1)
+2026-09-17 20:46:15   wrote nahum.md (39823 chars)
+2026-09-17 20:46:19 [42/73] Fetch habakkuk
+2026-09-17 20:46:19 OK habakkuk: 340760 bytes (attempt 1)
+2026-09-17 20:46:19   wrote habakkuk.md (67917 chars)
+2026-09-17 20:46:23 [43/73] Fetch zephaniah
+2026-09-17 20:46:24 OK zephaniah: 474196 bytes (attempt 1)
+2026-09-17 20:46:24   wrote zephaniah.md (67918 chars)
+2026-09-17 20:46:28 [44/73] Fetch haggai
+2026-09-17 20:46:28 OK haggai: 351318 bytes (attempt 1)
+2026-09-17 20:46:28   wrote haggai.md (36433 chars)
+2026-09-17 20:46:32 [45/73] Fetch zechariah
+2026-09-17 20:46:33 OK zechariah: 357894 bytes (attempt 1)
+2026-09-17 20:46:33   wrote zechariah.md (113124 chars)
+2026-09-17 20:46:37 [46/73] Fetch malachi
+2026-09-17 20:46:38 OK malachi: 864027 bytes (attempt 1)
+2026-09-17 20:46:38   wrote malachi.md (310108 chars)
+2026-09-17 20:46:42 [47/73] Fetch matthew
+2026-09-17 20:46:42 OK matthew: 1335881 bytes (attempt 1)
+2026-09-17 20:46:43   wrote matthew.md (794198 chars)
+2026-09-17 20:46:47 [48/73] Fetch mark
+2026-09-17 20:46:47 OK mark: 551559 bytes (attempt 1)
+2026-09-17 20:46:48   wrote mark.md (223448 chars)
+2026-09-17 20:46:52 [49/73] Fetch luke
+2026-09-17 20:46:52 OK luke: 930629 bytes (attempt 1)
+2026-09-17 20:46:53   wrote luke.md (534776 chars)
+2026-09-17 20:46:57 [50/73] Fetch john
+2026-09-17 20:46:57 OK john: 831443 bytes (attempt 1)
+2026-09-17 20:46:57   wrote john.md (469327 chars)
+2026-09-17 20:47:01 [51/73] Fetch acts
+2026-09-17 20:47:02 OK acts: 935309 bytes (attempt 1)
+2026-09-17 20:47:02   wrote acts.md (465517 chars)
+2026-09-17 20:47:06 [52/73] Fetch romans
+2026-09-17 20:47:06 OK romans: 554129 bytes (attempt 1)
+2026-09-17 20:47:06   wrote romans.md (208082 chars)
+2026-09-17 20:47:10 [53/73] Fetch 1-corinthians
+2026-09-17 20:47:11 OK 1-corinthians: 493146 bytes (attempt 1)
+2026-09-17 20:47:11   wrote 1-corinthians.md (203215 chars)
+2026-09-17 20:47:15 [54/73] Fetch 2-corinthians
+2026-09-17 20:47:16 OK 2-corinthians: 620983 bytes (attempt 1)
+2026-09-17 20:47:16   wrote 2-corinthians.md (120267 chars)
+2026-09-17 20:47:20 [55/73] Fetch galatians
+2026-09-17 20:47:20 OK galatians: 506341 bytes (attempt 1)
+2026-09-17 20:47:20   wrote galatians.md (69726 chars)
+2026-09-17 20:47:24 [56/73] Fetch ephesians
+2026-09-17 20:47:25 OK ephesians: 316538 bytes (attempt 1)
+2026-09-17 20:47:25   wrote ephesians.md (80464 chars)
+2026-09-17 20:47:29 [57/73] Fetch philippians
+2026-09-17 20:47:29 OK philippians: 252502 bytes (attempt 1)
+2026-09-17 20:47:29   wrote philippians.md (30220 chars)
+2026-09-17 20:47:33 [58/73] Fetch colossians
+2026-09-17 20:47:34 OK colossians: 264962 bytes (attempt 1)
+2026-09-17 20:47:34   wrote colossians.md (26928 chars)
+2026-09-17 20:47:38 [59/73] Fetch 1-thessalonians
+2026-09-17 20:47:38 OK 1-thessalonians: 252131 bytes (attempt 1)
+2026-09-17 20:47:38   wrote 1-thessalonians.md (30335 chars)
+2026-09-17 20:47:42 [60/73] Fetch 2-thessalonians
+2026-09-17 20:47:43 OK 2-thessalonians: 306202 bytes (attempt 1)
+2026-09-17 20:47:43   wrote 2-thessalonians.md (17935 chars)
+2026-09-17 20:47:47 [61/73] Fetch 1-timothy
+2026-09-17 20:47:47 OK 1-timothy: 276098 bytes (attempt 1)
+2026-09-17 20:47:47   wrote 1-timothy.md (39375 chars)
+2026-09-17 20:47:51 [62/73] Fetch 2-timothy
+2026-09-17 20:47:52 OK 2-timothy: 430341 bytes (attempt 1)
+2026-09-17 20:47:52   wrote 2-timothy.md (28116 chars)
+2026-09-17 20:47:56 [63/73] Fetch titus
+2026-09-17 20:47:56 OK titus: 229192 bytes (attempt 1)
+2026-09-17 20:47:56   wrote titus.md (14268 chars)
+2026-09-17 20:48:00 [64/73] Fetch philemon
+2026-09-17 20:48:01 OK philemon: 215454 bytes (attempt 1)
+2026-09-17 20:48:01   wrote philemon.md (4787 chars)
+2026-09-17 20:48:05 [65/73] Fetch hebrews
+2026-09-17 20:48:05 OK hebrews: 543628 bytes (attempt 1)
+2026-09-17 20:48:05   wrote hebrews.md (127722 chars)
+2026-09-17 20:48:09 [66/73] Fetch james
+2026-09-17 20:48:10 OK james: 436370 bytes (attempt 1)
+2026-09-17 20:48:10   wrote james.md (40444 chars)
+2026-09-17 20:48:14 [67/73] Fetch 1-peter
+2026-09-17 20:48:14 OK 1-peter: 328847 bytes (attempt 1)
+2026-09-17 20:48:14   wrote 1-peter.md (37331 chars)
+2026-09-17 20:48:18 [68/73] Fetch 2-peter
+2026-09-17 20:48:19 OK 2-peter: 578147 bytes (attempt 1)
+2026-09-17 20:48:19   wrote 2-peter.md (53978 chars)
+2026-09-17 20:48:23 [69/73] Fetch 1-john
+2026-09-17 20:48:24 OK 1-john: 372680 bytes (attempt 1)
+2026-09-17 20:48:24   wrote 1-john.md (70150 chars)
+2026-09-17 20:48:28 [70/73] Fetch 2-john
+2026-09-17 20:48:28 OK 2-john: 437192 bytes (attempt 1)
+2026-09-17 20:48:28   wrote 2-john.md (7353 chars)
+2026-09-17 20:48:32 [71/73] Fetch 3-john
+2026-09-17 20:48:33 OK 3-john: 227423 bytes (attempt 1)
+2026-09-17 20:48:33   wrote 3-john.md (13508 chars)
+2026-09-17 20:48:37 [72/73] Fetch jude
+2026-09-17 20:48:37 OK jude: 384336 bytes (attempt 1)
+2026-09-17 20:48:37   wrote jude.md (30189 chars)
+2026-09-17 20:48:41 [73/73] Fetch revelation
+2026-09-17 20:48:42 OK revelation: 813790 bytes (attempt 1)
+2026-09-17 20:48:42   wrote revelation.md (334537 chars)
+2026-09-17 20:48:42 DONE successes=73 failures=0
+2026-09-17 20:48:42 failures: []
